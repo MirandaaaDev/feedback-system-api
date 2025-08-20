@@ -161,8 +161,3 @@ http://localhost:8080/swagger-ui.html
 3. Teste todos os endpoints disponíveis: autenticação, envio de feedback, filtros e relatórios.
     
 ---
-## 🚀 Deploy
-
-> Em construção...
-
----
