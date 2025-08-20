@@ -44,7 +44,7 @@ Execute o código abaixo ou o equivalente na IDE de sua preferência:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/gvieira1/feedback-system-api.git
+git clone https://github.com/MirandaaaDev/feedback-system-api.git
 
 # Acesse a pasta do projeto
 cd feedback-system-api
