@@ -1,3 +1,5 @@
+
+
 # 📢 API de Feedback Interno para Empresas
 
 
@@ -157,3 +159,10 @@ http://localhost:8080/swagger-ui.html
 2. Configure o token JWT como variável global.
     
 3. Teste todos os endpoints disponíveis: autenticação, envio de feedback, filtros e relatórios.
+    
+---
+## 🚀 Deploy
+
+> Em construção...
+
+---
